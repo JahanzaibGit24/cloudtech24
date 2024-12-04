@@ -9,7 +9,7 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "latest",
+    "express": "^4.21.1",
     "sqlite3": "latest",
     "uuid": "^3.3.3",
     "wait-port": "^0.2.2"
